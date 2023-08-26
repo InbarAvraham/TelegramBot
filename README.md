@@ -1,6 +1,12 @@
 # TelegramBot
-In this project you can practice your english vocabulary throught Telegram. 
+Is a Telegram bot where you can practise your english at. 
+
 @psychometric_words_bot on Telegram. 
 
-# How is works?
-Getting a random word from the "english_word.txt" file and let the user to choose the right transltion from 3 transltions.
+## Run it your-self
+In order to do that- first, get yourself a Bot-Token from telegram.
+Next, install the requirements: Telebot, googletrans.
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first.
