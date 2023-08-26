@@ -1,5 +1,5 @@
 # TelegramBot
-Is a Telegram bot where you can practise your english at. 
+Is a Telegram bot where you can practise your english vocabulary at. 
 
 @psychometric_words_bot on Telegram. 
 
